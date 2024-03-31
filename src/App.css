@@ -1,0 +1,116 @@
+.body{
+
+  background-color: black
+  
+ 
+
+}
+
+
+
+.middle{
+
+    text-align: center;
+
+    margin-top: 20pt;
+    padding-bottom: 5%;
+    color: rgb(255, 0, 0);
+    /* border-style: dotted; */
+  padding-top: 30pt;
+
+
+  font-weight: 90;
+  font-size: 1em;
+  padding-top: 0.2em;
+ 
+  padding-bottom: 0.1em;
+  overflow: hidden;
+
+  line-height: 1em;
+  transform-origin: 0 0;
+ 
+
+}
+.intro{
+
+ 
+  color: rgb(13, 63, 63);
+  /* border-style: dotted; */
+
+padding-top: 70pt;
+
+font-weight: 90;
+font-size: 5em;
+
+overflow: hidden;
+
+line-height: 1em;
+transform-origin: 0 0;
+
+}
+.middle1{
+color: rgb(255, 0, 0);
+  border-style: dotted;
+  padding-top: 20pt;
+  margin-top: 20pt;
+}
+
+.card{
+
+font-family:'Times New Roman', Times, serif;
+color: rgb(255, 0, 0);
+
+border-radius: 8%;
+margin: 110px;
+ display:flex;
+ display: inline;
+ overflow: hidden;
+
+}
+.top1{
+
+text-decoration-line: underline;
+;
+}
+
+.textt{
+
+padding-left: 30%;
+border-style: dotted;
+scroll-padding-block-start:inherit
+
+}
+.bg-body-tertiary{
+
+ position: relative;
+
+}
+.img{
+
+margin-left: 25%;
+margin-top: 5%;
+border-width: 80%;
+
+}
+.links{
+text-decoration-color: black;
+display: inline-flex;
+gap: 23;
+word-spacing: 20px;
+}
+.error{
+
+  background-color: antiquewhite;
+
+
+}
+.Error{
+  background-color: antiquewhite;
+}
+.red{
+
+  background-color: red;
+  color: aliceblue;
+
+
+}
