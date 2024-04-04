@@ -17,7 +17,7 @@ export const Home = () => {
             <div >
                 <Tag />
 
-                <img src='https://cdn.dribbble.com/users/1687718/screenshots/3597876/7_-_netflix.gif' className='img' />
+             
 
                 <Tag2 />
 
